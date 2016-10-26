@@ -1,0 +1,1486 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ma-se\n"
+"POT-Creation-Date: 2016-09-05 13:22+0200\n"
+"PO-Revision-Date: 2016-09-05 13:24+0200\n"
+"Last-Translator: \n"
+"Language-Team: Affiliate solutions\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../lib/Ads/Banner.php:16
+msgid "Add New Banner Ad"
+msgstr "Neues Banner Ad anlegen"
+
+#: ../lib/Ads/Banner.php:17
+msgid "New Banner Ad"
+msgstr "Neues Banner Ad"
+
+#: ../lib/Ads/Banner.php:18
+msgid "Edit Banner Ad"
+msgstr "Banner Ad editieren"
+
+#: ../lib/Ads/Banner.php:19
+msgid "View Banner Ad"
+msgstr "Banner Ad anzeigen"
+
+#: ../lib/Ads/Banner.php:20
+msgid "Banner Ads"
+msgstr "Banner Ads"
+
+#: ../lib/Ads/Banner.php:21
+msgid "Search Banner Ads"
+msgstr "Banner Ads suchen"
+
+#: ../lib/Ads/Banner.php:22
+msgid "Parent Banner Ads:"
+msgstr "Eltern Banner Ads"
+
+#: ../lib/Ads/Banner.php:23 ../lib/Ads/HTML.php:23 ../lib/Ads/Popup.php:23
+msgid "No ads found."
+msgstr "Keine Werbemittel gefunden"
+
+#: ../lib/Ads/Banner.php:24 ../lib/Ads/HTML.php:24 ../lib/Ads/Popup.php:24
+msgid "No ads found in Trash."
+msgstr "Keine Werbemittel im Papierkorb gefunden."
+
+#: ../lib/Ads/Banner.php:29 ../lib/Ads/HTML.php:29 ../lib/Ads/Popup.php:29
+msgid "moreAds SE Ads"
+msgstr "moreAds SE Werbemittel"
+
+#: ../lib/Ads/Banner.php:50 ../lib/Ads/HTML.php:52 ../lib/Ads/Popup.php:51
+msgid "Display in Country"
+msgstr "Anzeige in Land"
+
+#: ../lib/Ads/Banner.php:51 ../lib/Ads/HTML.php:54 ../lib/Ads/Popup.php:52
+msgid "Display on Device"
+msgstr "Anzeige auf Device"
+
+#: ../lib/Ads/Banner.php:52 ../lib/Ads/html/showreallink.php:3
+msgid "Show Link URL"
+msgstr "Zeige Link URL"
+
+#: ../lib/Ads/Banner.php:53 ../lib/Ads/Popup.php:53
+msgid "Target URL"
+msgstr "Ziel URL"
+
+#: ../lib/Ads/Banner.php:54
+msgid "Graphic"
+msgstr "Grafik"
+
+#: ../lib/Ads/Banner.php:55 ../lib/Ads/HTML.php:55 ../lib/Ads/Popup.php:54
+msgid "Display on Connection"
+msgstr "Anzeige bei Verbindung"
+
+#: ../lib/Ads/Banner.php:56 ../lib/Ads/HTML.php:56 ../lib/Ads/Popup.php:55
+#: ../lib/Pages/Settings.php:531
+msgid "Global Ads"
+msgstr "Global Ads"
+
+#: ../lib/Ads/Banner.php:57 ../lib/Ads/HTML.php:58 ../lib/Ads/Popup.php:56
+#: ../lib/Ads/html/disabled.php:3
+msgid "Disable Ad"
+msgstr "Ad deaktivieren"
+
+#: ../lib/Ads/CustomColumns.php:76 ../lib/Ads/CustomColumns.php:98
+msgid "Size"
+msgstr "Größe"
+
+#: ../lib/Ads/CustomColumns.php:81 ../lib/Ads/CustomColumns.php:103
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+#: ../lib/Ads/CustomColumns.php:96 ../lib/Zones/Banner.php:47
+#: ../lib/Zones/ExitIntent.php:45 ../lib/Zones/Float.php:47
+#: ../lib/Zones/Menu.php:41 ../lib/Zones/Popup.php:45
+#: ../lib/Zones/TextLink.php:45
+msgid "Tags"
+msgstr "Tags"
+
+#: ../lib/Ads/CustomColumns.php:100
+msgid "Countries"
+msgstr "Länder"
+
+#: ../lib/Ads/CustomColumns.php:101
+msgid "Devices"
+msgstr "Devices"
+
+#: ../lib/Ads/CustomColumns.php:102
+msgid "Global Ad"
+msgstr "Globales Ad"
+
+#: ../lib/Ads/CustomColumns.php:104
+msgid "Date"
+msgstr "Datum"
+
+#: ../lib/Ads/CustomColumns.php:113
+msgid "Enabled"
+msgstr "Aktiviert"
+
+#: ../lib/Ads/CustomColumns.php:115
+msgid "Inactive"
+msgstr "Inaktiv"
+
+#: ../lib/Ads/CustomColumns.php:143 ../lib/Ads/CustomColumns.php:234
+#: ../lib/Ads/html/device.php:3 ../lib/MASE_Pro.php:51
+#: ../lib/Widgets/Banner.php:156 ../lib/Widgets/ExitIntent.php:142
+#: ../lib/Widgets/Float.php:143 ../lib/Widgets/Popup.php:88
+#: ../lib/Widgets/TextLink.php:70 ../lib/Zones/Banner.php:114
+#: ../lib/Zones/ExitIntent.php:111 ../lib/Zones/Float.php:113
+#: ../lib/Zones/Menu.php:106 ../lib/Zones/Popup.php:110
+#: ../lib/Zones/TextLink.php:110
+msgid "Desktop"
+msgstr "Desktop"
+
+#: ../lib/Ads/CustomColumns.php:144 ../lib/Ads/CustomColumns.php:236
+#: ../lib/Ads/html/device.php:5 ../lib/MASE_Pro.php:52
+#: ../lib/Widgets/Banner.php:158 ../lib/Widgets/Float.php:145
+#: ../lib/Widgets/Popup.php:90 ../lib/Widgets/TextLink.php:72
+#: ../lib/Zones/Banner.php:115 ../lib/Zones/ExitIntent.php:112
+#: ../lib/Zones/Float.php:114 ../lib/Zones/Menu.php:107
+#: ../lib/Zones/Popup.php:111 ../lib/Zones/TextLink.php:111
+msgid "Smartphone"
+msgstr "Smartphone"
+
+#: ../lib/Ads/CustomColumns.php:145 ../lib/Ads/CustomColumns.php:235
+#: ../lib/Ads/html/device.php:4 ../lib/MASE_Pro.php:53
+#: ../lib/Widgets/Banner.php:157 ../lib/Widgets/Float.php:144
+#: ../lib/Widgets/Popup.php:89 ../lib/Widgets/TextLink.php:71
+#: ../lib/Zones/Banner.php:116 ../lib/Zones/ExitIntent.php:113
+#: ../lib/Zones/Float.php:115 ../lib/Zones/Menu.php:108
+#: ../lib/Zones/Popup.php:112 ../lib/Zones/TextLink.php:112
+msgid "Tablet"
+msgstr "Tablet"
+
+#: ../lib/Ads/CustomColumns.php:173 ../lib/MASE_Pro.php:148
+msgid "Ad is Disabled"
+msgstr "Ad Deaktiviert"
+
+#: ../lib/Ads/CustomColumns.php:196
+msgid "Show All"
+msgstr "Alles anzeigen"
+
+#: ../lib/Ads/CustomColumns.php:210
+msgid "Show All Ad-Sizes"
+msgstr "Alle Ad-Größen anzeigen"
+
+#: ../lib/Ads/CustomColumns.php:221
+msgid "Show All Countries"
+msgstr "Alle Länder anzeigen"
+
+#: ../lib/Ads/CustomColumns.php:232
+msgid "Show All Devices"
+msgstr "Alle Devices anzeigen"
+
+#: ../lib/Ads/CustomColumns.php:258
+msgid ""
+"moreAds SE Feature Global Ads is not enabled, therefore editing is not "
+"possible."
+msgstr ""
+"moreAds SE Feature Global Ads ist nicht aktiviert, deshalb ist die "
+"Bearbeitung nicht möglich."
+
+#: ../lib/Ads/CustomColumns.php:258 ../lib/MASE_Pro.php:130
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: ../lib/Ads/CustomColumns.php:261
+msgid "Clone this ad"
+msgstr "Dieses Ad klonen"
+
+#: ../lib/Ads/CustomColumns.php:261
+msgid "Clone"
+msgstr "Klonen"
+
+#: ../lib/Ads/Generic.php:385
+msgid "Clone of "
+msgstr "Klon von"
+
+#: ../lib/Ads/HTML.php:16
+msgid "Add New HTML Ad"
+msgstr "Neues HTML Ad anlegen"
+
+#: ../lib/Ads/HTML.php:17
+msgid "New HTML Ad"
+msgstr "Neues HTML Ad"
+
+#: ../lib/Ads/HTML.php:18
+msgid "Edit HTML Ad"
+msgstr "HTML Ad editieren"
+
+#: ../lib/Ads/HTML.php:19
+msgid "View HTML Ad"
+msgstr "HTML Ads anzeigen"
+
+#: ../lib/Ads/HTML.php:20
+msgid "HTML Ads"
+msgstr "HTML Ads"
+
+#: ../lib/Ads/HTML.php:21
+msgid "Search HTML Ads"
+msgstr "Nach HTML Ads suchen"
+
+#: ../lib/Ads/HTML.php:22
+msgid "Parent HTML Ads:"
+msgstr "Eltern HTML Ads"
+
+#: ../lib/Ads/HTML.php:53 ../lib/Pages/Statistics.php:68
+#: ../lib/Pages/Statistics.php:102
+msgid "Ad Size"
+msgstr "Ad Größe"
+
+#: ../lib/Ads/HTML.php:57
+msgid "IFrame Legacy Mode"
+msgstr "IFrame Legacy Modus"
+
+#: ../lib/Ads/Popup.php:16
+msgid "Add New Popup Ad"
+msgstr "Popup Ad anlegen"
+
+#: ../lib/Ads/Popup.php:17
+msgid "New Popup Ad"
+msgstr "Neues Popup Ad"
+
+#: ../lib/Ads/Popup.php:18
+msgid "Edit Popup Ad"
+msgstr "Popup Ad editieren"
+
+#: ../lib/Ads/Popup.php:19
+msgid "View Popup Ad"
+msgstr "Popup Ad anzeigen"
+
+#: ../lib/Ads/Popup.php:20
+msgid "Popup Ads"
+msgstr "Popup Ads"
+
+#: ../lib/Ads/Popup.php:21
+msgid "Search Popup Ads"
+msgstr "Popup Ads suchen"
+
+#: ../lib/Ads/Popup.php:22
+msgid "Parent Popup Ads:"
+msgstr "Eltern Popup Ads:"
+
+#: ../lib/Ads/TagTaxonomy.php:13
+msgid "Ad-Tags"
+msgstr "Ad-Tags"
+
+#: ../lib/Ads/html/connections.php:3 ../lib/MASE_Pro.php:69
+msgid "Mobile"
+msgstr "Mobile"
+
+#: ../lib/Ads/html/connections.php:4 ../lib/MASE_Pro.php:70
+msgid "WIFI"
+msgstr "WIFI"
+
+#: ../lib/Ads/html/disabled.php:4 ../lib/Ads/html/iframe_mode.php:4
+#: ../lib/Ads/html/showreallink.php:4 ../lib/Pages/Menu.php:10
+msgid "Information"
+msgstr "Information"
+
+#: ../lib/Ads/html/disabled.php:5
+msgid "The Ad will be disabled in all Zones."
+msgstr "Das Werbemittel wird in allen Zonen deaktiviert."
+
+#: ../lib/Ads/html/disabled.php:6
+msgid "If the Ad is an Global Ad, it will be disabled on all your Domains."
+msgstr "Falls das Ad ein Global Ad ist, wird es auf allen Domain deaktiviert."
+
+#: ../lib/Ads/html/geoip.php:2
+msgid "All countries"
+msgstr "Alle Länder"
+
+#: ../lib/Ads/html/geoip.php:2
+msgid "Quick Select All"
+msgstr "Schnellauswahl Alle"
+
+#: ../lib/Ads/html/geoip.php:3
+msgid "No countries"
+msgstr "Keine Länder"
+
+#: ../lib/Ads/html/geoip.php:3
+msgid "Quick Select None"
+msgstr "Schnellauswahl Keine"
+
+#: ../lib/Ads/html/geoip.php:4
+msgid "Current Country of the Admin"
+msgstr "Aktuelles Land für den Admin"
+
+#: ../lib/Ads/html/geoip.php:4
+msgid "Quick Select Current Admin Country"
+msgstr "Schnellauswahl Land des Admin"
+
+#: ../lib/Ads/html/geoip.php:5
+msgid "Select the countries Germany, Austria, Switzerland"
+msgstr "Die Länder Deutschland, Österreich, Schweiz auswählen"
+
+#: ../lib/Ads/html/geoip.php:5
+msgid "Quick Select DACH+"
+msgstr "Schnellauswahl DACH+"
+
+#: ../lib/Ads/html/geoip.php:6
+msgid "All countries except Germany, Austria, Switzerland"
+msgstr "Alle Länder außer Deutschland, Österreich, Schweiz"
+
+#: ../lib/Ads/html/geoip.php:6
+msgid "Quick Select DACH-"
+msgstr "Schnellauswahl DACH-"
+
+#: ../lib/Ads/html/iframe_mode.php:3
+msgid "Enable IFrame Legacy Mode"
+msgstr "Aktiviere den IFrame Legacy Modus"
+
+#: ../lib/Ads/html/iframe_mode.php:5
+msgid "The HTML Code is run inside an IFrame on the website."
+msgstr ""
+"Der HTML Code wird innerhalb eines IFrames auf der Webseite ausgeführt."
+
+#: ../lib/Ads/html/iframe_mode.php:6
+msgid ""
+"This enables ads which rely on document.write javascript code (AdSense calls "
+"it \"Synchronous Ads\" to work with moreAds SE."
+msgstr ""
+"Diese Funktion ermöglicht es alten Werbemittel welche die document.write "
+"Javascript Funktion benutzen (AdSense nennt diese \"Synchronous Ads\" mit "
+"moreAds zu harmonieren."
+
+#: ../lib/Ads/html/iframe_mode.php:7
+msgid ""
+"For more information about synchronous vs asynchronous ads you can read this "
+"<a target=\"_blank\" href=\"http://www.matrudev.com/post/synchronous-"
+"asynchronous-adsense/\">article</a>."
+msgstr ""
+"Für mehr Informationen über synchrone und asynchrone Werbemittel kannst du "
+"diesen <a target=\"_blank\" href=\"http://www.matrudev.com/post/synchronous-"
+"asynchronous-adsense/\">Artikel</a> lesen."
+
+#: ../lib/Ads/html/iframe_mode.php:8
+msgid "Please use this mode only if your ad is not shown."
+msgstr ""
+"Bitte benutze diesen Modus nur dann, wenn das Werbemittel nicht dargestellt "
+"wird."
+
+#: ../lib/Ads/html/iframe_mode.php:9
+msgid ""
+"Please note, that this Iframe way to display ads is forbidden with Google "
+"AdSense and can cause an account termination."
+msgstr ""
+"Bitte beachte, dass dieser IFrame Weg, Werbemittel darzustellen von manchen "
+"Ad Netzwerken wie Google AdSense verboten ist und auch zu einer Account "
+"Sperre von Google führen kann. "
+
+#: ../lib/Ads/html/imageselect.php:5
+msgid "Select picture"
+msgstr "Bildauswahl"
+
+#: ../lib/Ads/html/imageselect.php:64
+#, php-format
+msgid ""
+"The picture name contains the string %s and would get blocked by every "
+"adblocker. Please change the name of your picture for example to hff9tfhasd "
+"and upload it again."
+msgstr ""
+"Der Bildname enthält die Zeichenkette %s und würde von AdBlockern geblockt "
+"werden. Bitte ändere den Namen des Bildes um, z.B. in hff9tfhasd und lade es "
+"erneut hoch."
+
+#: ../lib/Ads/html/imageselect.php:68
+msgid ""
+"The picture name contains non ascii chars and would get blocked by every "
+"adblocker. Please change the name of your picture for example to "
+"mysolution123 and upload it again."
+msgstr ""
+"Der Bildname enthält sonderzeichen (keine ASCII zeichen) und würde von "
+"AdBlockern geblockt werden. Bitte ändere den Namen des Bildes um, z.B. in "
+"hff9tfhasd und lade es erneut hoch."
+
+#: ../lib/Ads/html/showreallink.php:5
+msgid "Normally the link of the Ad is hidden for the user."
+msgstr ""
+"Normalerweise ist die Ziel URL des Werbemittels für den User nicht einsehbar."
+
+#: ../lib/Ads/html/showreallink.php:6
+msgid "This feature sets the Target URL of the Ad as the href link."
+msgstr "Dieses Feature setzt die Ziel URL des Ads als href Link."
+
+#: ../lib/Ads/html/size.php:4 ../lib/Widgets/Popup.php:98
+msgid "Width:"
+msgstr "Breite:"
+
+#: ../lib/Ads/html/size.php:12 ../lib/Widgets/Popup.php:105
+msgid "Height:"
+msgstr "Höhe:"
+
+#: ../lib/Ads/html/sync.php:4
+msgid "Mark as Global Ad"
+msgstr "Als Globales Ad markieren"
+
+#: ../lib/Ads/html/sync.php:7
+msgid "Enable Synchronization"
+msgstr "Synchronisation aktivieren"
+
+#: ../lib/Ads/html/sync.php:11
+msgid "Information:"
+msgstr "Information:"
+
+#: ../lib/Ads/html/sync.php:12
+msgid ""
+"This Ad will be automatically synchronized between all your WordPress "
+"Instances"
+msgstr ""
+"Dieses Ad wird automatisch unter all deinen WordPress-Instanzen "
+"synchronisiert"
+
+#: ../lib/Ads/html/sync.php:13
+msgid ""
+"You will gain the possibility to view impression, click and ctr statistics "
+"for this ad."
+msgstr ""
+"Du erhältst die Möglichkeit Impression-, Click- und CTR-Statistiken für "
+"dieses Ad einzusehen."
+
+#: ../lib/Ads/html/sync.php:15
+msgid "Warning"
+msgstr "Warnung"
+
+#: ../lib/Ads/html/sync.php:16
+msgid "This option cannot be disabled after activating it"
+msgstr "Diese Option kann nach danach nicht mehr deaktiviert werden"
+
+#: ../lib/MASE_Admin.php:46 ../lib/MASE_Admin.php:47
+msgid "moreAds SE"
+msgstr "moreAds SE"
+
+#: ../lib/MASE_Admin.php:57 ../lib/MASE_Admin.php:58
+#: ../lib/Pages/Settings.php:6
+msgid "General"
+msgstr "Allgemein"
+
+#: ../lib/MASE_Admin.php:67 ../lib/MASE_Admin.php:68
+msgid "Statistics"
+msgstr "Statistiken"
+
+#: ../lib/MASE_Admin.php:77 ../lib/MASE_Admin.php:78
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: ../lib/MASE_Admin.php:90
+#, php-format
+msgid ""
+"moreAds SE Country Detection support is not enabled. We highly recommend to "
+"enable it by visiting <a href=\"%s\">moreAds SE > General</a> > Free "
+"Features menu entry."
+msgstr ""
+"Die Ländererkennung für moreAds SE ist nicht aktiv. Wir empfehlen dringend "
+"diese zu aktivieren indem der Menü-Eintrag <a href=\"%s\">moreAds SE > "
+"Allgemein > Freie Features</a> aufgerufen wird."
+
+#: ../lib/MASE_Admin.php:219 ../lib/MASE_Admin.php:275 ../lib/MASE_Pro.php:127
+#: ../lib/MASE_Pro.php:135 ../lib/MASE_Pro.php:139 ../lib/MASE_Pro.php:142
+msgid "Preview"
+msgstr "Vorschau"
+
+#: ../lib/MASE_Admin.php:279
+msgid "All Days of Week"
+msgstr "Alle Tage der Woche"
+
+#: ../lib/MASE_Admin.php:280
+msgid "All Hours of Day"
+msgstr "Alle Stunden des Tags"
+
+#: ../lib/MASE_Admin.php:281
+msgid "selected"
+msgstr "ausgewählt"
+
+#: ../lib/MASE_Admin.php:282
+msgid "Do you really want to remove your moreAds SE License Key?"
+msgstr "Möchtest du wirklich den moreAds SE Lizenzschlüssel entfernen?"
+
+#: ../lib/MASE_Admin.php:283
+msgid "none"
+msgstr "keine"
+
+#: ../lib/MASE_Admin.php:284
+msgid "unknown"
+msgstr "Unbekannt"
+
+#: ../lib/MASE_Menu.php:38
+#, php-format
+msgid ""
+"The Plugin/Theme \"%s\" is not compatible with the moreAds SE Feature \"Menu "
+"Link Zones\". Please disable the Plugin/Theme or disable the moreAds SE "
+"Feature."
+msgstr ""
+"Das Plugin/Theme \"%s\" ist nicht kompatibel mit dem moreAds SE Feature "
+"\"Menü Link Zonen\". Bitte deaktviere das Plugin/Theme oder deaktiviere das "
+"moreAds SE Feature."
+
+#: ../lib/MASE_Pro.php:50 ../lib/Pages/Statistics.php:33
+msgid "All Devices"
+msgstr "Alle Devices"
+
+#: ../lib/MASE_Pro.php:59 ../lib/Pages/Statistics.php:39
+msgid "All Users"
+msgstr "Alle Besucher"
+
+#: ../lib/MASE_Pro.php:60
+msgid "AdBlock Users"
+msgstr "AdBlock Besucher"
+
+#: ../lib/MASE_Pro.php:61 ../lib/Pages/Statistics.php:40
+msgid "Normal Users"
+msgstr "Normale Besucher"
+
+#: ../lib/MASE_Pro.php:68 ../lib/Pages/Statistics.php:46
+msgid "All Connections"
+msgstr "Alle Verbindungen"
+
+#: ../lib/MASE_Pro.php:93 ../lib/Pages/Statistics.php:27
+msgid "All Domains"
+msgstr "Alle Domains"
+
+#: ../lib/MASE_Pro.php:193 ../lib/MASE_Pro.php:194
+#: ../lib/Pages/Statistics.php:52
+msgid "All Countries"
+msgstr "Alle Länder"
+
+#: ../lib/MASE_Shortcode_Widgets.php:45
+#, php-format
+msgid "moreAds SE Shortcode-Area %s"
+msgstr "moreAds SE Shortcode-Bereich %s"
+
+#: ../lib/Pages/Menu.php:6
+msgid "Use menu entry as moreAds SE Popup Zone"
+msgstr "Benutze Menüeintrag als moreAds SE Popup Zone"
+
+#: ../lib/Pages/Menu.php:11
+msgid ""
+"If a user clicks on the menu entry and no ad can be found for example "
+"because of wrong device, wrong country, wrong connection ..., the user will "
+"be redirected to the url of the menu entry."
+msgstr ""
+"Falls ein Benutzer den Menüeintrag aufruft und kein Ad gefunden werden kann, "
+"weil z.B. falsches Gerät, falsches Land, falsche Verbindung, wird der "
+"Benutzer zu dem Originalziel des Menüeintrags weitergeleitet."
+
+#: ../lib/Pages/Menu.php:16 ../lib/Widgets/Banner.php:205
+#: ../lib/Widgets/ExitIntent.php:159 ../lib/Widgets/Float.php:176
+#: ../lib/Widgets/Popup.php:119 ../lib/Widgets/TextLink.php:83
+msgid "Start Zone Configurator"
+msgstr "Zonen-Konfigurator starten"
+
+#: ../lib/Pages/Menu.php:20 ../lib/Widgets/Banner.php:209
+#: ../lib/Widgets/ExitIntent.php:163 ../lib/Widgets/Float.php:180
+#: ../lib/Widgets/Popup.php:123 ../lib/Widgets/TextLink.php:87
+#, php-format
+msgid "%d Ad in Zone active"
+msgstr "%d Ad in Zone aktiv"
+
+#: ../lib/Pages/Menu.php:22 ../lib/Widgets/Banner.php:211
+#: ../lib/Widgets/ExitIntent.php:165 ../lib/Widgets/Float.php:182
+#: ../lib/Widgets/Popup.php:125 ../lib/Widgets/TextLink.php:89
+#, php-format
+msgid "%d Ads in Zone active"
+msgstr "%d Ads in Zone aktiv"
+
+#: ../lib/Pages/Settings.php:11
+msgid "Free Features"
+msgstr "Freie Features"
+
+#: ../lib/Pages/Settings.php:16
+msgid "Premium Features"
+msgstr "Premium Features"
+
+#: ../lib/Pages/Settings.php:21
+msgid "Help"
+msgstr "Hilfe"
+
+#: ../lib/Pages/Settings.php:34
+msgid "moreAds SE Status"
+msgstr "moreAds SE Status"
+
+#: ../lib/Pages/Settings.php:41
+msgid "License"
+msgstr "Lizenz"
+
+#: ../lib/Pages/Settings.php:44 ../lib/Pages/Settings.php:513
+msgid "Premium Edition"
+msgstr "Premium Edition"
+
+#: ../lib/Pages/Settings.php:46
+msgid "Free Edition"
+msgstr "Free Edition"
+
+#: ../lib/Pages/Settings.php:46 ../lib/Pages/Settings.php:519
+msgid "https://offer.affiliate-solutions.xyz/moreads-se-premium-en/"
+msgstr "https://offer.affiliate-solutions.xyz/moreads-se-premium-de/"
+
+#: ../lib/Pages/Settings.php:46 ../lib/Pages/Settings.php:520
+msgid "Upgrade now"
+msgstr "Jetzt Upgraden"
+
+#: ../lib/Pages/Settings.php:51
+msgid "Author"
+msgstr "Autor"
+
+#: ../lib/Pages/Settings.php:57
+msgid "Plugin URL"
+msgstr "Plugin URL"
+
+#: ../lib/Pages/Settings.php:59
+msgid "https://wordpress.org/plugins/moreads-se/"
+msgstr "https://de.wordpress.org/plugins/moreads-se/"
+
+#: ../lib/Pages/Settings.php:63
+msgid "Plugin Version"
+msgstr "Plugin Version"
+
+#: ../lib/Pages/Settings.php:74 ../lib/Pages/Settings.php:89
+msgid "Subscription Status"
+msgstr "Abonnement Status"
+
+#: ../lib/Pages/Settings.php:76
+msgid "Active"
+msgstr "Aktiv"
+
+#: ../lib/Pages/Settings.php:81
+msgid "Licenseable Domains"
+msgstr "Lizenzierbare Domains"
+
+#: ../lib/Pages/Settings.php:84
+msgid "Unlimited"
+msgstr "Unlimitiert"
+
+#: ../lib/Pages/Settings.php:84
+msgid " in use"
+msgstr "in Benutzung"
+
+#: ../lib/Pages/Settings.php:91
+msgid "Expired"
+msgstr "Abgelaufen"
+
+#: ../lib/Pages/Settings.php:102
+msgid "Subscription Start"
+msgstr "Anfang des Abonnements"
+
+#: ../lib/Pages/Settings.php:106
+msgid "Subscription End"
+msgstr "Ende des Abonnements"
+
+#: ../lib/Pages/Settings.php:109
+msgid "Lifetime"
+msgstr "2099-01-26 13:50:32"
+
+#: ../lib/Pages/Settings.php:119 ../lib/Pages/Settings.php:123
+msgid "Remove License Key"
+msgstr "Lizenzschlüssel entfernen"
+
+#: ../lib/Pages/Settings.php:146
+msgid "Activate Premium License"
+msgstr "Premium Lizenz aktivieren"
+
+#: ../lib/Pages/Settings.php:154
+msgid ""
+"The License could not be verified or the Domain Installations Limit has been "
+"reached. Please try again."
+msgstr ""
+"Die Lizenz konnte nicht überprüft werden oder das Domain Installations Limit "
+"deiner Lizenz ist erreicht. Bitte versuche es erneut."
+
+#: ../lib/Pages/Settings.php:157
+msgid ""
+"The PHP.INI setting \"allow_url_fopen\" is disabled. To use the Pro version "
+"you have to enable the PHP function \"allow_url_fopen\" in your webserver."
+msgstr ""
+"Die PHP.INI Einstellung \"allow_url_fopen\" ist deaktiviert. Um die Pro "
+"Version zu nutzen, musst Du die PHP Funktion \"allow_url_fopen\" auf deinem "
+"Webserver aktivieren."
+
+#: ../lib/Pages/Settings.php:162
+msgid "Activate"
+msgstr "Aktivieren"
+
+#: ../lib/Pages/Settings.php:178
+msgid "Upgrade your License"
+msgstr "Upgrade deine Lizenz"
+
+#: ../lib/Pages/Settings.php:181
+msgid "You want to use the Plugin on more than 5 Domains?"
+msgstr "Du möchtest das Plugin auf mehr als 5 Domains einsetzen?"
+
+#: ../lib/Pages/Settings.php:183
+msgid "Upgrading your License to support unlimited Domains is very simple."
+msgstr ""
+"Das upgraden deiner Lizenz um unendlich viele Domains zu unterstützten ist "
+"einfach."
+
+#: ../lib/Pages/Settings.php:184
+msgid ""
+"Just click the \"Upgrade Now\" Button to upgrade your moreAds SE Premium 5 "
+"License to moreAds SE Ultimate."
+msgstr ""
+"Klicke einfach den \"Jetzt Upgraden\" Button um deine moreAds SE Premium 5 "
+"Lizenz zu einer moreAds SE Ultimate Lizenz aufzuwerten."
+
+#: ../lib/Pages/Settings.php:185
+msgid ""
+"For the upgrade, your already spent money for your old moreAds SE license "
+"will be charged as a credit."
+msgstr ""
+"Für das Upgrade werden wir deine bisherigen Lizenzkosten als Gutschrift "
+"verrechnen."
+
+#: ../lib/Pages/Settings.php:186
+msgid "Please note:"
+msgstr "Bitte beachte:"
+
+#: ../lib/Pages/Settings.php:187
+msgid ""
+"After Upgrading you have to enter the new License Key in all WordPress "
+"Domains. This is done by at removing the license key via the \"Help\" Menu "
+"and then entering the new license key."
+msgstr ""
+"Nach dem Upgrade musst du den neuen Lizenzschlüssel auf all deinen WordPress "
+"Domains eintragen. Dazu musst du zuerst den aktuellen Lizenzschlüssel via "
+"dem \"Hilfe\" Menü entfernen um deinen neuen Lizenzschlüssel eintragen zu "
+"können."
+
+#: ../lib/Pages/Settings.php:192
+msgid "Upgrade Now"
+msgstr "Jetzt Upgraden"
+
+#: ../lib/Pages/Settings.php:205
+msgid "Country Detection"
+msgstr "Ländererkennung"
+
+#: ../lib/Pages/Settings.php:206 ../lib/Pages/Settings.php:246
+msgid "Free Feature"
+msgstr "Freies Feature"
+
+#: ../lib/Pages/Settings.php:208 ../lib/Pages/Settings.php:505
+#: ../lib/Pages/Settings.php:534 ../lib/Pages/Settings.php:560
+#: ../lib/Pages/Settings.php:584 ../lib/Pages/Settings.php:609
+msgid "Activated"
+msgstr "Aktiviert"
+
+#: ../lib/Pages/Settings.php:212
+msgid ""
+"The Country Detection Feature allows you to show ads/offers to users based "
+"on their country."
+msgstr ""
+"Das Feature für die Ländererkennung erlaubt es Ihren Usern Ads/Angebote "
+"anzuzeigen, die für die jeweiligen Ländern zugeschnitten sind."
+
+#: ../lib/Pages/Settings.php:214
+msgid ""
+"To enable Country Detection support you have to download and upload "
+"Maxmind's GeoIP Database."
+msgstr ""
+"Um die Ländererkennung zu aktivieren, musst Du die GeoIP Datenbank von "
+"Maxmind herunter- und dann hier hochladen."
+
+#: ../lib/Pages/Settings.php:215
+msgid ""
+"Please download \"GeoLite Country > Binary / gzip\" from <a target=\"_blank"
+"\" href=\"http://dev.maxmind.com/geoip/legacy/geolite/\">here</a> and "
+"<b>unzip the file</b> so it has the name <b>\"GeoIP.dat\"</b>."
+msgstr ""
+"Bitte \"GeoLite Country > Binary / gzip\" von <a target=\"_blank\" href="
+"\"http://dev.maxmind.com/geoip/legacy/geolite/\">hier herunterladen</a> und "
+"<b>unzippe die Datei</b> zu <b>\"GeoIP.dat\"</b>."
+
+#: ../lib/Pages/Settings.php:217
+msgid "Upload the file by clicking the Upload button."
+msgstr "Lade die Datei hoch, indem Du auf den Upload-Button klickst."
+
+#: ../lib/Pages/Settings.php:223 ../lib/Pages/Settings.php:284
+msgid ""
+"Failed: The selected/uploaded file is not a valid MaxMind GeoIP Database "
+"File."
+msgstr ""
+"Fehlgeschlagen: Die ausgewählte/hochgeladene Datei ist keine gültige MaxMind "
+"GeoIP Datei."
+
+#: ../lib/Pages/Settings.php:231 ../lib/Pages/Settings.php:234
+msgid "Upload"
+msgstr "Upload"
+
+#: ../lib/Pages/Settings.php:245
+msgid "Zone Features"
+msgstr "Zonen Features"
+
+#: ../lib/Pages/Settings.php:252
+msgid "Widget Ad Zones > Ad Weighting"
+msgstr "Widget Ad Bereiche > Ad Gewichtung"
+
+#: ../lib/Pages/Settings.php:255
+msgid "Enables the Ad Weighting Feature in the Widget Zones"
+msgstr "Aktiviert die Ad Gewichtung in den Widget Zonen"
+
+#: ../lib/Pages/Settings.php:259
+msgid "Widget Ad Zones > Hours of Day"
+msgstr "Widget Ad Zones > Stunden des Tags"
+
+#: ../lib/Pages/Settings.php:262
+msgid "Display ads only on chosen hours of a day"
+msgstr "Zeige Ads nur innerhalb der gewählten Stunden eines Tages an"
+
+#: ../lib/Pages/Settings.php:266
+msgid "Widget Ad Zones > Days of Week"
+msgstr "Widget Ad Zones > Wochentage"
+
+#: ../lib/Pages/Settings.php:269
+msgid "Display ads only on chosen days of a week"
+msgstr "Zeige Ads nur an den gewählten Wochentagen an"
+
+#: ../lib/Pages/Settings.php:274
+msgid "Menu Link Zones"
+msgstr "Menü Link Zonen"
+
+#: ../lib/Pages/Settings.php:277
+msgid "Use the menu entries as ad zones."
+msgstr "Benutze Menüeinträge als moreAds SE Popup Zonen"
+
+#: ../lib/Pages/Settings.php:290
+msgid "Save"
+msgstr "Speichern"
+
+#: ../lib/Pages/Settings.php:304
+msgid "German Video Tutorials"
+msgstr "Deutsche Video Tutorials"
+
+#: ../lib/Pages/Settings.php:317
+msgid "Support"
+msgstr "Support"
+
+#: ../lib/Pages/Settings.php:333
+msgid "Your License Key was removed. Please reload this page."
+msgstr "Dein Lizenzschlüssel wurde entfernt. Bitte lade die Seite neu."
+
+#: ../lib/Pages/Settings.php:339
+msgid "Support Forum:"
+msgstr "Support Forum:"
+
+#: ../lib/Pages/Settings.php:346
+msgid "Facebook Group:"
+msgstr "Facebook Gruppe:"
+
+#: ../lib/Pages/Settings.php:363
+msgid "Social Networks"
+msgstr "Soziale Netzwerke"
+
+#: ../lib/Pages/Settings.php:448
+msgid "Additional Plugins of Affiliate solutions"
+msgstr "Weitere Plugins von Affiliate solutions"
+
+#: ../lib/Pages/Settings.php:456
+msgid "https://offer.affiliate-solutions.xyz/bounce-jammer-en/"
+msgstr "https://offer.affiliate-solutions.xyz/bounce-jammer-de/"
+
+#: ../lib/Pages/Settings.php:466
+msgid "https://offer.affiliate-solutions.xyz/digi2mailpoet-en/"
+msgstr "https://offer.affiliate-solutions.xyz/digi2mailpoet-de/"
+
+#: ../lib/Pages/Settings.php:476
+msgid "https://offer.affiliate-solutions.xyz/customer-retargeting-en/"
+msgstr "https://offer.affiliate-solutions.xyz/customer-retargeting-de/"
+
+#: ../lib/Pages/Settings.php:486
+msgid "https://wordpress.org/plugins/nm404/"
+msgstr "https://de.wordpress.org/plugins/nm404/"
+
+#: ../lib/Pages/Settings.php:532 ../lib/Pages/Settings.php:558
+#: ../lib/Pages/Settings.php:582 ../lib/Pages/Settings.php:607
+msgid "Premium Feature"
+msgstr "Premium Feature"
+
+#: ../lib/Pages/Settings.php:538
+msgid ""
+"Global Ads is a feature which will automatically synchronize your created "
+"ads between all your WordPress Domains."
+msgstr ""
+"Globale Ads ist ein Feature das automatisch Deine erstellten Ads auf all "
+"deine WordPress Domains synchronisiert."
+
+#: ../lib/Pages/Settings.php:539
+msgid ""
+"Please note, that our api server will receive your ads and will connect to "
+"all your WordPress Domains via HTTP to synchronize your ads.."
+msgstr ""
+"Bitte beachte, dass unser API-Server Deine Ads erhält und all Deine "
+"WordPress Domains über HTTP kontaktiert, um diese Ads zu synchronisieren.."
+
+#: ../lib/Pages/Settings.php:540
+msgid "Please make sure, no htaccess protection is enabled."
+msgstr "Bitte stelle sicher, dass kein Htaccess-Schutz aktiv ist."
+
+#: ../lib/Pages/Settings.php:545 ../lib/Pages/Settings.php:569
+#: ../lib/Pages/Settings.php:594 ../lib/Pages/Settings.php:619
+msgid "Disable"
+msgstr "Deaktivieren"
+
+#: ../lib/Pages/Settings.php:547 ../lib/Pages/Settings.php:571
+#: ../lib/Pages/Settings.php:596 ../lib/Pages/Settings.php:621
+msgid "Enable"
+msgstr "Aktivieren"
+
+#: ../lib/Pages/Settings.php:557
+msgid "Global Ads Statistics"
+msgstr "Global Ads Statistiken"
+
+#: ../lib/Pages/Settings.php:564
+msgid ""
+"Get statistics for your Global Ads like impressions, clicks and CTR over "
+"your whole WordPress Network which have moreAds SE installed."
+msgstr ""
+"Statistiken für Ihre Global Ads, wie Impressions, Clicks und CTR, über Ihr "
+"gesamtes WordPress-Netzwerk mit installiertem moreAds SE anzeigen."
+
+#: ../lib/Pages/Settings.php:581
+msgid "Connection Detection API"
+msgstr "Connection Detection API"
+
+#: ../lib/Pages/Settings.php:588
+msgid "Display ads based on client's connection type."
+msgstr "Ads anzeigen basierend auf dem Verbindungstyp des Clients."
+
+#: ../lib/Pages/Settings.php:589
+msgid ""
+"This feature is mostly used by webmasters to display WAP billing offers to "
+"only mobile users, as wifi users can't use or pay the offer."
+msgstr ""
+"Dieses Feature wird von Webmastern benutzt um WAP-Billing-Angebote mobilen "
+"Usern anzuzeigen, da WIFI User das Angebot nicht nutzen oder bezahlen können."
+
+#: ../lib/Pages/Settings.php:606
+msgid "AdBlock Jammer"
+msgstr "AdBlock Jammer"
+
+#: ../lib/Pages/Settings.php:613
+msgid ""
+"If you open explicitly blocked urls as a new window (target=_blank), the "
+"AdBlocker will block it."
+msgstr ""
+"Bei einigen URLs wird das Öffnen in einem neuen Fenster (target=_blank) "
+"durch die AdBlocker verhindert."
+
+#: ../lib/Pages/Settings.php:614
+msgid "The AdBlock Jammer bypasses this restriction."
+msgstr "Der AdBlock Jammer umgeht diese Beschränkung."
+
+#: ../lib/Pages/Settings.php:656
+msgid "Select GeoIP.dat"
+msgstr "GeoIP.dat auswählen"
+
+#: ../lib/Pages/Settings.php:659
+msgid "Use selected GeoIP.dat"
+msgstr "Ausgewählte GeoIP.dat benutzen"
+
+#: ../lib/Pages/Shortcodes.php:16
+msgid "The Shortcode was created successfully."
+msgstr "Der Shortcode wurde erfolgreich erstellt."
+
+#: ../lib/Pages/Shortcodes.php:17 ../lib/Pages/Shortcodes.php:45
+msgid "Success"
+msgstr "Erfolg"
+
+#: ../lib/Pages/Shortcodes.php:21
+msgid "The Shortcode could not be created. Please try again."
+msgstr ""
+"Der Shortcode konnte nicht erstellt werden. Bitte versuche es noch einmal."
+
+#: ../lib/Pages/Shortcodes.php:27
+msgid "A Shortcode with that name already exists. Please try again."
+msgstr ""
+"Ein Shortcode mit dem selben Namen existiert bereits. Bitte versuche es noch "
+"einmal."
+
+#: ../lib/Pages/Shortcodes.php:37
+msgid "The selected shortcode does not exist and therefore can not be deleted."
+msgstr ""
+"Der ausgewählte Shortcode existiert nicht und kann daher nicht gelöscht "
+"werden."
+
+#: ../lib/Pages/Shortcodes.php:44
+msgid "The selected shortcode was deleted successfully."
+msgstr "Der ausgewählte Shortcode wurde erfolgreich gelöscht."
+
+#: ../lib/Pages/Shortcodes.php:58
+msgid "Error"
+msgstr "Fehler"
+
+#: ../lib/Pages/Shortcodes.php:76
+msgid "Create Shortcode Widget Area"
+msgstr "Shortcode Widget Area anlegen"
+
+#: ../lib/Pages/Shortcodes.php:80
+msgid ""
+"moreAds SE Shortcode Widget Areas is a tool which allows you to create "
+"widget areas."
+msgstr ""
+"moreAds SE Shortcode Widget Areas ist ein Tool zum Anlegen von Widget Areas."
+
+#: ../lib/Pages/Shortcodes.php:82
+msgid ""
+"After creating a widget area you will find the area under Appearance > "
+"Widgets."
+msgstr ""
+"Nach Anlegen einer Widget Area, findest du diese unter Aussehen > Widgets."
+
+#: ../lib/Pages/Shortcodes.php:84
+msgid ""
+"You can add any moreAds SE zones to this area but also any other Widget you "
+"want."
+msgstr ""
+"Du kannst jede moreAds SE Zone, aber auch jedes andere Widget zu dieser Area "
+"hinzufügen."
+
+#: ../lib/Pages/Shortcodes.php:86
+msgid ""
+"Use the shown WP Shortcode or Theme PHP Code to display the widget area on "
+"any place inside your website."
+msgstr ""
+"Den angezeigten WP Shortcode oder Theme PHP Code benutzen um das Widget "
+"überall auf der Webseite anzuzeigen."
+
+#: ../lib/Pages/Shortcodes.php:94
+msgid "Your Shortcode Widget Name"
+msgstr "Name für Shortcode Widget"
+
+#: ../lib/Pages/Shortcodes.php:95
+msgid "Create"
+msgstr "Erstellen"
+
+#: ../lib/Pages/Shortcodes.php:105
+msgid "Shortcode Widget Areas"
+msgstr "Shortcode Widget Areas"
+
+#: ../lib/Pages/Shortcodes.php:109
+msgid "Heads up!"
+msgstr "Aufgepasst!"
+
+#: ../lib/Pages/Shortcodes.php:110
+msgid "moreAds SE Shortcodes can only be embedded once on each page."
+msgstr "moreAds SE Shortcodes können nur einmal pro Seite eingebunden werden."
+
+#: ../lib/Pages/Shortcodes.php:117 ../lib/Zones/Banner.php:45
+#: ../lib/Zones/ExitIntent.php:43 ../lib/Zones/Float.php:45
+#: ../lib/Zones/Menu.php:39 ../lib/Zones/Popup.php:43
+#: ../lib/Zones/TextLink.php:43
+msgid "Name"
+msgstr "Name"
+
+#: ../lib/Pages/Shortcodes.php:118
+msgid "WP Shortcode"
+msgstr "WP Shortcode"
+
+#: ../lib/Pages/Shortcodes.php:119
+msgid "Theme PHP Code"
+msgstr "Theme PHP Code"
+
+#: ../lib/Pages/Shortcodes.php:120 ../lib/Pages/Shortcodes.php:136
+msgid "Created"
+msgstr "Erstellt"
+
+#: ../lib/Pages/Shortcodes.php:121
+msgid "Actions"
+msgstr "Aktionen"
+
+#: ../lib/Pages/Shortcodes.php:142
+msgid "Delete"
+msgstr "Löschen"
+
+#: ../lib/Pages/Statistics.php:7
+msgid "Statistics <span style=\"display: inline-block\">for Global Ads</span>"
+msgstr ""
+"Statisiken <span style=\"display: inline-block\">f&uuml;r Globale Ads</span>"
+
+#: ../lib/Pages/Statistics.php:7
+msgid "Hourly updates"
+msgstr "Stündliche Aktualisierung"
+
+#: ../lib/Pages/Statistics.php:13
+msgid "Today"
+msgstr "Heute"
+
+#: ../lib/Pages/Statistics.php:14
+msgid "Yesterday"
+msgstr "Gestern"
+
+#: ../lib/Pages/Statistics.php:15
+msgid "This Week"
+msgstr "Diese Woche"
+
+#: ../lib/Pages/Statistics.php:16
+msgid "Last Week"
+msgstr "Letzte Woche"
+
+#: ../lib/Pages/Statistics.php:17
+msgid "This Month"
+msgstr "Diesen Monat"
+
+#: ../lib/Pages/Statistics.php:18
+msgid "Last Month"
+msgstr "Letzter Monat"
+
+#: ../lib/Pages/Statistics.php:19
+msgid "Last 30 Days"
+msgstr "Letzte 30 Tage"
+
+#: ../lib/Pages/Statistics.php:20
+msgid "Last 60 Days"
+msgstr "Letzte 60 Tage"
+
+#: ../lib/Pages/Statistics.php:21
+msgid "Last 90 Days"
+msgstr "Letzte 90 Tage"
+
+#: ../lib/Pages/Statistics.php:62 ../lib/Pages/Statistics.php:100
+msgid "Ad Title"
+msgstr "Ad-Titel"
+
+#: ../lib/Pages/Statistics.php:65 ../lib/Pages/Statistics.php:101
+msgid "Ad Tags"
+msgstr "Ad-Tags"
+
+#: ../lib/Pages/Statistics.php:71 ../lib/Pages/Statistics.php:103
+msgid "Ad Type"
+msgstr "Ad Typ"
+
+#: ../lib/Pages/Statistics.php:74 ../lib/Pages/Statistics.php:104
+msgid "Domain"
+msgstr "Domain"
+
+#: ../lib/Pages/Statistics.php:77 ../lib/Pages/Statistics.php:105
+#: ../lib/Zones/Banner.php:49 ../lib/Zones/ExitIntent.php:47
+#: ../lib/Zones/Float.php:49 ../lib/Zones/Menu.php:43 ../lib/Zones/Popup.php:47
+#: ../lib/Zones/TextLink.php:47
+msgid "Device"
+msgstr "Device"
+
+#: ../lib/Pages/Statistics.php:80 ../lib/Pages/Statistics.php:106
+msgid "Visitors"
+msgstr "Besucher"
+
+#: ../lib/Pages/Statistics.php:83 ../lib/Pages/Statistics.php:107
+msgid "Connection"
+msgstr "Verbindung"
+
+#: ../lib/Pages/Statistics.php:86 ../lib/Pages/Statistics.php:108
+#: ../lib/Zones/Banner.php:48 ../lib/Zones/ExitIntent.php:46
+#: ../lib/Zones/Float.php:48 ../lib/Zones/Menu.php:42 ../lib/Zones/Popup.php:46
+#: ../lib/Zones/TextLink.php:46
+msgid "Country"
+msgstr "Land"
+
+#: ../lib/Pages/Statistics.php:89
+msgid "Group By Columns"
+msgstr "Gruppiere nach Spalten"
+
+#: ../lib/Pages/Statistics.php:109
+msgid "Impressions"
+msgstr "Impressions"
+
+#: ../lib/Pages/Statistics.php:110
+msgid "Clicks"
+msgstr "Clicks"
+
+#: ../lib/Pages/Statistics.php:111
+msgid "CTR"
+msgstr "CTR"
+
+#: ../lib/Widgets/Banner.php:8 ../lib/Widgets/Banner.php:9
+msgid "moreAds SE Banner Zone"
+msgstr "moreAds SE Banner Zone"
+
+#: ../lib/Widgets/Banner.php:148 ../lib/Widgets/ExitIntent.php:135
+#: ../lib/Widgets/Float.php:136 ../lib/Widgets/Popup.php:81
+msgid "Title:"
+msgstr "Titel:"
+
+#: ../lib/Widgets/Banner.php:154 ../lib/Widgets/ExitIntent.php:140
+#: ../lib/Widgets/Float.php:141 ../lib/Widgets/Popup.php:86
+#: ../lib/Widgets/TextLink.php:68
+msgid "Display on devices:"
+msgstr "Anzeige auf Devices:"
+
+#: ../lib/Widgets/Banner.php:163 ../lib/Widgets/Float.php:150
+msgid "Size:"
+msgstr "Größe:"
+
+#: ../lib/Widgets/Banner.php:172
+msgid "Alignment:"
+msgstr "Ausrichtung:"
+
+#: ../lib/Widgets/Banner.php:174
+msgid "Centered"
+msgstr "Zentriert"
+
+#: ../lib/Widgets/Banner.php:175
+msgid "Left"
+msgstr "Links"
+
+#: ../lib/Widgets/Banner.php:176
+msgid "Right"
+msgstr "Rechts"
+
+#: ../lib/Widgets/Banner.php:181
+msgid "Padding Top/Bottom"
+msgstr "Padding Oben/Unten"
+
+#: ../lib/Widgets/Banner.php:186 ../lib/Widgets/ExitIntent.php:152
+#: ../lib/Widgets/Float.php:169
+msgid "AdBlock Bypass"
+msgstr "AdBlock-Umgehung"
+
+#: ../lib/Widgets/Banner.php:188 ../lib/Widgets/ExitIntent.php:154
+#: ../lib/Widgets/Float.php:171
+msgid "Serve to AdBlock Users Banner Ads only and skip blockable HTML ads"
+msgstr ""
+"Zeige AdBlock Besuchern nur Banner-Ads an und überspringe die Anzeige von "
+"blockbaren HTML-Ads"
+
+#: ../lib/Widgets/Banner.php:192
+msgid "Prefer HTML Ads"
+msgstr "Bevorzuge HTML Ads"
+
+#: ../lib/Widgets/Banner.php:194
+msgid ""
+"Prefer HTML Ads for Users without AdBlock Software (Banner Ads will be "
+"ignored for Users without AdBlock Software)"
+msgstr ""
+"Bevorzuge HTML Ads für Benutzer ohne AdBlock Software (Banner Ads werden "
+"ignoriert bei Benutzern ohne AdBlock Software)"
+
+#: ../lib/Widgets/Banner.php:198 ../lib/Widgets/TextLink.php:77
+msgid "Remove rel=\"nofollow\" from the link"
+msgstr "Entferne rel=\"nofollow\" vom Link"
+
+#: ../lib/Widgets/Banner.php:200
+msgid "Works only with Banner Ads"
+msgstr "Funktioniert nur mit Banner Ads"
+
+#: ../lib/Widgets/ExitIntent.php:8 ../lib/Widgets/ExitIntent.php:9
+msgid "moreAds SE Exit Intent Banner/HTML Zone"
+msgstr "moreAds SE Exit Intent Banner/HTML Zone"
+
+#: ../lib/Widgets/ExitIntent.php:147
+msgid "Display Ad again after X seconds"
+msgstr "Popup erneut anzeigen nach X Sekunden"
+
+#: ../lib/Widgets/Float.php:8 ../lib/Widgets/Float.php:9
+msgid "moreAds SE Floating Banner Zone"
+msgstr "moreAds SE Floating Banner Zone"
+
+#: ../lib/Widgets/Float.php:159
+msgid "Delay the display of the Ad for X Seconds"
+msgstr "Verzögere die Anzeige auf X Sekunden"
+
+#: ../lib/Widgets/Float.php:164
+msgid "Cookie Lifetime"
+msgstr "Cookie Lebenszeit"
+
+#: ../lib/Widgets/Popup.php:8 ../lib/Widgets/Popup.php:9
+msgid "moreAds SE Popup Zone"
+msgstr "moreAds SE Popup Zone"
+
+#: ../lib/Widgets/Popup.php:95
+msgid "Popup Size:"
+msgstr "Popup Größe:"
+
+#: ../lib/Widgets/Popup.php:113
+msgid "Display Popup again after"
+msgstr "Popup erneut anzeigen nach"
+
+#: ../lib/Widgets/Popup.php:114
+msgid "minutes"
+msgstr "Minuten"
+
+#: ../lib/Widgets/TextLink.php:8
+msgid "moreAds SE TextLink Zone"
+msgstr "moreAds SE TextLink Zone"
+
+#: ../lib/Widgets/TextLink.php:9
+msgid "moreAds SE TextLink Zones are using Popup Ads"
+msgstr "moreAds SE TextLink Zonen benutzen Popup Ads"
+
+#: ../lib/Widgets/TextLink.php:63
+msgid "Link Text:"
+msgstr "Link Text:"
+
+#: ../lib/Zones/Banner.php:37 ../lib/Zones/ExitIntent.php:35
+#: ../lib/Zones/Float.php:37 ../lib/Zones/Menu.php:31 ../lib/Zones/Popup.php:35
+#: ../lib/Zones/TextLink.php:35
+msgid "Zone Configurator"
+msgstr "Zonenkonfigurator"
+
+#: ../lib/Zones/Banner.php:43 ../lib/Zones/ExitIntent.php:41
+#: ../lib/Zones/Float.php:43 ../lib/Zones/Menu.php:37 ../lib/Zones/Popup.php:41
+#: ../lib/Zones/TextLink.php:41
+msgid "Enable Ad in Zone"
+msgstr "Aktiviere Ad in Zone"
+
+#: ../lib/Zones/Banner.php:44 ../lib/Zones/ExitIntent.php:42
+#: ../lib/Zones/Float.php:44 ../lib/Zones/Menu.php:38 ../lib/Zones/Popup.php:42
+#: ../lib/Zones/TextLink.php:42
+msgid "ID"
+msgstr "ID"
+
+#: ../lib/Zones/Banner.php:50 ../lib/Zones/ExitIntent.php:48
+#: ../lib/Zones/Float.php:50 ../lib/Zones/Menu.php:44 ../lib/Zones/Popup.php:48
+#: ../lib/Zones/TextLink.php:48
+msgid "URL"
+msgstr "URL"
+
+#: ../lib/Zones/Banner.php:53 ../lib/Zones/ExitIntent.php:51
+#: ../lib/Zones/Float.php:53 ../lib/Zones/Menu.php:46 ../lib/Zones/Popup.php:50
+#: ../lib/Zones/TextLink.php:50
+msgid "Hours of Day"
+msgstr "Stunden des Tags"
+
+#: ../lib/Zones/Banner.php:57 ../lib/Zones/ExitIntent.php:55
+#: ../lib/Zones/Float.php:57 ../lib/Zones/Menu.php:50 ../lib/Zones/Popup.php:54
+#: ../lib/Zones/TextLink.php:54
+msgid "Days of Week"
+msgstr "Tage der Woche"
+
+#: ../lib/Zones/Banner.php:61 ../lib/Zones/ExitIntent.php:59
+#: ../lib/Zones/Float.php:61 ../lib/Zones/Menu.php:54 ../lib/Zones/Popup.php:58
+#: ../lib/Zones/TextLink.php:58
+msgid "Weight"
+msgstr "Gewichtung"
+
+#: ../lib/Zones/Banner.php:90 ../lib/Zones/ExitIntent.php:88
+#: ../lib/Zones/Float.php:90 ../lib/Zones/Menu.php:83 ../lib/Zones/Popup.php:87
+#: ../lib/Zones/TextLink.php:87
+msgid "Not available"
+msgstr "Nicht verfügbar"
+
+#: ../lib/Zones/Banner.php:148 ../lib/Zones/ExitIntent.php:145
+#: ../lib/Zones/Float.php:147 ../lib/Zones/Menu.php:140
+#: ../lib/Zones/Popup.php:144 ../lib/Zones/TextLink.php:144
+msgid "Monday"
+msgstr "Montag"
+
+#: ../lib/Zones/Banner.php:149 ../lib/Zones/ExitIntent.php:146
+#: ../lib/Zones/Float.php:148 ../lib/Zones/Menu.php:141
+#: ../lib/Zones/Popup.php:145 ../lib/Zones/TextLink.php:145
+msgid "Tuesday"
+msgstr "Dienstag"
+
+#: ../lib/Zones/Banner.php:150 ../lib/Zones/ExitIntent.php:147
+#: ../lib/Zones/Float.php:149 ../lib/Zones/Menu.php:142
+#: ../lib/Zones/Popup.php:146 ../lib/Zones/TextLink.php:146
+msgid "Wednesday"
+msgstr "Mittwoch"
+
+#: ../lib/Zones/Banner.php:151 ../lib/Zones/ExitIntent.php:148
+#: ../lib/Zones/Float.php:150 ../lib/Zones/Menu.php:143
+#: ../lib/Zones/Popup.php:147 ../lib/Zones/TextLink.php:147
+msgid "Thursday"
+msgstr "Donnerstag"
+
+#: ../lib/Zones/Banner.php:152 ../lib/Zones/ExitIntent.php:149
+#: ../lib/Zones/Float.php:151 ../lib/Zones/Menu.php:144
+#: ../lib/Zones/Popup.php:148 ../lib/Zones/TextLink.php:148
+msgid "Friday"
+msgstr "Freitag"
+
+#: ../lib/Zones/Banner.php:153 ../lib/Zones/ExitIntent.php:150
+#: ../lib/Zones/Float.php:152 ../lib/Zones/Menu.php:145
+#: ../lib/Zones/Popup.php:149 ../lib/Zones/TextLink.php:149
+msgid "Saturday"
+msgstr "Samstag"
+
+#: ../lib/Zones/Banner.php:154 ../lib/Zones/ExitIntent.php:151
+#: ../lib/Zones/Float.php:153 ../lib/Zones/Menu.php:146
+#: ../lib/Zones/Popup.php:150 ../lib/Zones/TextLink.php:150
+msgid "Sunday"
+msgstr "Sonntag"
+
+#: ../lib/Zones/Banner.php:170 ../lib/Zones/ExitIntent.php:167
+#: ../lib/Zones/Float.php:169 ../lib/Zones/Menu.php:162
+#: ../lib/Zones/Popup.php:166 ../lib/Zones/TextLink.php:166
+msgid "Close"
+msgstr "Schließen"
+
+#: ../lib/Zones/Banner.php:171 ../lib/Zones/ExitIntent.php:168
+#: ../lib/Zones/Float.php:170 ../lib/Zones/Menu.php:163
+#: ../lib/Zones/Popup.php:167 ../lib/Zones/TextLink.php:167
+msgid "Save changes"
+msgstr "Änderungen speichern"
+
+#~ msgid "Statistics for Global Ads"
+#~ msgstr "Statistiken für Global Ads"
+
+#~ msgid "Support & Social Sharing"
+#~ msgstr "Hilfe & Social Sharing"
+
+#~ msgid "Facebook Fanpage:"
+#~ msgstr "Facebook Fanpage:"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Youtube"
+#~ msgstr "Youtube"
+
+#~ msgid "Google +"
+#~ msgstr "Google +"
+
+#~ msgid "Pro Edition"
+#~ msgstr "Pro Version"
+
+#~ msgid "Bypass directly blocked AdBlock URLs."
+#~ msgstr "Überbrücke direkt geblockte AdBlock URLs."
+
+#~ msgid ""
+#~ "This feature allows to bypass direct blocked URLs of the AdBlockers Block "
+#~ "Lists"
+#~ msgstr ""
+#~ "Dieses Feature erlaubt es direkt blockierte URLs der AdBlocker Block "
+#~ "Listen dennoch aufzurufen."
+
+#~ msgid "Features"
+#~ msgstr "Features"
+
+#~ msgid "Hour"
+#~ msgstr "Stunde"
+
+#~ msgid ""
+#~ "Get access to all premium features by buying our moreAds SE premium "
+#~ "subscription starting at 2€ / month."
+#~ msgstr "Erhalte Zugang zu allen Premium Features für 2 € / Monat."
+
+#~ msgid "Upgrade"
+#~ msgstr "Upgrade"
+
+#~ msgid "Pro Feature"
+#~ msgstr "Pro Feature"
+
+#~ msgid "moreAds SE is a standalone ad server used as a WordPress plugin"
+#~ msgstr ""
+#~ "moreAds SE ist ein selbständiger AdServer implementiert als WordPress "
+#~ "Plugin"
+
+#~ msgid "Affiliate Solutions S.L.U"
+#~ msgstr "Affiliate Solutions S.L.U"
+
+#~ msgid "Ad zones are implemented as WordPress widgets."
+#~ msgstr "Ad Zonen sind als WordPress Widgets implementiert."
+
+#~ msgid "Supported ad zones/widgets"
+#~ msgstr "Unterstützte Ad Zonen / Widgets"
+
+#~ msgid "Settings"
+#~ msgstr "Einstellungen"
+
+#~ msgid "Ads"
+#~ msgstr "Werbemittel"

@@ -1,0 +1,1 @@
+mgr = new HTMLDeliverManager({namespace: '<?php echo sha1($this->id); ?>', pixel_cb: '<?php echo $cb_pixel_view_url; ?>', intent_timeout: <?php echo (int) $instance['display_again']; ?>}, E.decode('<?php echo base64_encode($ad_html); ?>'));
