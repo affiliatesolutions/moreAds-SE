@@ -49,8 +49,7 @@ More infos about this project at: https://www.affiliate-solutions.xyz/produkte/m
 If you have any questions or problems you can get in touch with us via our [support forum](https://forum.affiliate-solutions.xyz/wordpress-plugin-moreads-single-edition-se--f34/ "support forum").
 
 ### Video Tutorial for German Users
-
-[youtube https://www.youtube.com/watch?v=H7DG6634sMQ&list=PLDJimwnKLBznB2zojuxlYSyPoL1HpiPs4]
+[Video Tutorial for German Users](https://www.youtube.com/watch?v=H7DG6634sMQ&list=PLDJimwnKLBznB2zojuxlYSyPoL1HpiPs4)
 
 <a name="changelog"></a>
 ## Changelog
