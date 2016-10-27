@@ -1,4 +1,4 @@
-# moreAds-SE
+# moreAds SE
 
 moreAds SE is a simple adserver which helps you to optimize your revenue by displaying ads only to specific users.
 This is done by selecting only the supported countries and devices for every ad offer.
