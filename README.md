@@ -21,7 +21,7 @@ Ads will also be displayed, even when visitors use an ad blocker.
 - [Get Support](#support)
 - [Changelog](#changelog)
 
-More infos about this project at: https://www.affiliate-solutions.xyz/produkte/moreads-se/
+More infos about this project on <a href="https://www.affiliate-solutions.xyz/produkte/moreads-se/" target="_blank">www.affiliate-solutions.xyz</a>
 
 <a name="supported-ads"></a>
 ## Supported Ads
@@ -46,9 +46,9 @@ More infos about this project at: https://www.affiliate-solutions.xyz/produkte/m
 <a name="support"></a>
 ## Get Support
 
-If you have any questions or problems you can get in touch with us via our [support forum](https://forum.affiliate-solutions.xyz/wordpress-plugin-moreads-single-edition-se--f34/ "support forum")
+If you have any questions or problems you can get in touch with us via our <a href="https://forum.affiliate-solutions.xyz/wordpress-plugin-moreads-single-edition-se--f34/" target="_blank">support forum</a>.
 
-[Video Tutorial for German Users](https://www.youtube.com/watch?v=H7DG6634sMQ&list=PLDJimwnKLBznB2zojuxlYSyPoL1HpiPs4)
+<a href="https://www.youtube.com/watch?v=H7DG6634sMQ&list=PLDJimwnKLBznB2zojuxlYSyPoL1HpiPs4" target="_blank">Video Tutorial for German Users</a>
 
 <a name="changelog"></a>
 ## Changelog
